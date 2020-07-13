@@ -1,0 +1,35 @@
+.header {
+  position: relative;
+  top: -25px;
+}
+.header h1 {
+  color: #ddc7a9;
+  letter-spacing: 5px;
+}
+.banner {
+  background: #fff;
+  padding-top: 50px;
+  padding-bottom: 80px;
+}
+.banner .header-section .header-section__title {
+  color: #3b98c9;
+}
+.banner .header-section .header-section__subtitle {
+  color: #939393;
+}
+.banner .description {
+  margin-top: 29px;
+}
+.banner .description p {
+  color: #a8a8a8;
+}
+.banner .line {
+  background: #3b98c9;
+  height: 2px;
+  width: 100%;
+  margin-top: 30px;
+}
+.speicies-section {
+  background: #fafafa;
+  padding-bottom: 50px;
+}
